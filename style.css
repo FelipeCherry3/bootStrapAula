@@ -1,0 +1,29 @@
+.detalhes {
+    
+}
+.comprar {
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+a:link {
+    color: rgb(0, 0, 0);
+    transform: scale(1.56);
+    transition: all 0.5s;
+}
+a:visited {
+    color: rgb(0, 0, 0);
+    transform: scale(1.56);
+    transition: all 0.5s;
+}
+.comprar:hover {
+    transform: scale(1.56);
+    transition: all 0.5s;
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+    transform: scale(1.56);
+    transition: all 0.5s;
+}
